@@ -10,6 +10,9 @@ Cet addon ajoute deux métiers de boulangers (traditionnel et industriel) avec u
 ## Fonctionnalités principales
 - Entités de fabrication (sacs de farine, bouteilles d'eau, pâte, plan de travail, fours).
 - Système de mélange, façonnage et cuisson des produits.
+- Balance numérique pour peser les ingrédients.
+- Bol de mélange acceptant sacs de farine et bouteilles d'eau pour créer la pâte.
+- Nouveau produit : pain au chocolat.
 - Interface Derma pour gérer les stocks et les commandes.
 - Persistance simple via fichiers data.
 
