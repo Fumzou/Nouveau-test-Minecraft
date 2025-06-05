@@ -10,7 +10,10 @@ local ENTITIES = {
     "oven_industrial",
     "product_bread",
     "product_croissant",
-    "product_baguette"
+    "product_baguette",
+    "product_painauchocolat",
+    "digital_scale",
+    "mixing_bowl"
 }
 
 for _, ent in ipairs(ENTITIES) do
